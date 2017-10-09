@@ -1,0 +1,24 @@
+{
+  "title": "Monokai Corail UR Theme",
+  "name": "monokai-corail-ur",
+  "description": "Dark theme, black background. For all languages. .cm-variable and .cm-property colors are inversed",
+  "version": "1.0.1",
+  "author": {
+  "name": "GUAM23",
+  "url": "https://github.com/GUAM23"
+  },
+  "homepage": "https://github.com/GUAM23/monokai-corail-ur",
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/GUAM23/monokai-corail-ur.git"
+    },
+  "license": "MIT",
+  "engines": {
+    "brackets": ">=1.3.0"
+  },
+  "theme": {
+    "file": "main.min.css",
+    "dark": true
+  },
+  "keywords": ["theme","monokai","corail","dark","font"]
+} 
