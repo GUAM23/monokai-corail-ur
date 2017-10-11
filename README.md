@@ -1,3 +1,7 @@
+[![Downloads](https://badges.ml/monokai-corail-ur/total.svg)](https://brackets-extension-badges.github.io#monokai-corail-ur)
+[![Downloads](https://badges.ml/monokai-corail-ur/last-version.svg)](https://brackets-extension-badges.github.io#monokai-corail-ur)
+[![Downloads](https://badges.ml/monokai-corail-ur/week.svg)](https://brackets-extension-badges.github.io#monokai-corail-ur)
+[![Downloads](https://badges.ml/monokai-corail-ur/day.svg)](https://brackets-extension-badges.github.io#monokai-corail-ur)
 ### HTML/CSS
 ![screenshot_mcur_html](https://user-images.githubusercontent.com/27980534/31412676-517c2c80-ae16-11e7-8355-75b9cb1d4830.png)
 ### PHP
