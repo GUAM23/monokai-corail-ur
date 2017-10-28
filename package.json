@@ -1,8 +1,8 @@
 {
   "title": "Monokai Corail UR Theme",
   "name": "monokai-corail-ur",
-  "description": "Dark theme, black background. For all languages. .cm-variable and .cm-property colors are inversed",
-  "version": "1.0.1",
+  "description": "Dark theme, black background. For all languages (specially PHP). .cm-variable and .cm-property colors are inversed",
+  "version": "1.1.1",
   "author": {
   "name": "GUAM23",
   "url": "https://github.com/GUAM23"

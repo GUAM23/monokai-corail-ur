@@ -30,10 +30,16 @@
 
 .cm-attribute,
 .cm-builtin,
-.cm-qualifier,
+.cm-qualifier
+
+{
+    color: #A6E22E;
+}
+
 .cm-meta 
 {
-    color: #A6E22E
+    color: #A6E22E;
+    background: #323232;
 }
 
 .cm-string,
@@ -69,11 +75,12 @@
 .CodeMirror,
 .CodeMirror-scroll {
     background: #000;
-    color: #F8F8F2
+    color: #F8F8F2;
+    line-height: 17px
 }
 
 .CodeMirror-gutters {
-    background: #242424
+    background: #151515
 }
 
 .CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt,
@@ -83,7 +90,7 @@
 }
 
 .CodeMirror-linenumber {
-    color: #808080
+    color: #808080;
 }
 
 .CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
@@ -135,8 +142,9 @@
 
 .CodeMirror-foldgutter-open:after {
     content: "-";
-    font-size: 1.32em;
-    color: #999999
+    font-size: 1.3em;
+    font-weight: 700;
+    color: #808080
 }
 
 .CodeMirror-foldgutter-folded:after {
@@ -185,3 +193,4 @@
 .brackets-git-gutter-removed {
     width: 3px
 }
+
