@@ -25,7 +25,7 @@
 }
 
 .cm-variable-3 {
-    color: #F8F8F2
+    color: #e9e9e9
 }
 
 .cm-attribute,
@@ -33,7 +33,7 @@
 .cm-qualifier
 
 {
-    color: #A6E22E;
+    color: #A6E22E
 }
 
 .cm-meta 
@@ -53,8 +53,8 @@
 }
 
 .cm-comment {
-    color: #8c8c8c;
-    font-style: italic
+    color: #959595;
+    font-style: italic;
 }
 
 .cm-def,
@@ -69,18 +69,18 @@
 
 .cm-error {
     background: #E80487;
-    color: #F8F8F2!important
+    color: #e9e9e9!important
 }
 
 .CodeMirror,
 .CodeMirror-scroll {
-    background: #000;
-    color: #F8F8F2;
-    line-height: 17px
+    background: #050505;
+    color: #e9e9e9;
+    line-height: 20px;
 }
 
 .CodeMirror-gutters {
-    background: #121212
+    background: #050505
 }
 
 .CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt,
@@ -90,15 +90,15 @@
 }
 
 .CodeMirror-linenumber {
-    color: #909090
+    color: #999
 }
 
 .CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
-    color: #F8F8F2
+    color: #e9e9e9
 }
 
 .CodeMirror-cursor {
-    border-left: 1px solid #F8F8F2!important
+    border-left: 1px solid #e9e9e9!important
 }
 
 .CodeMirror-selected {
@@ -120,7 +120,7 @@
 
 .CodeMirror-nonmatchingbracket {
     background: #E80487!important;
-    color: #F8F8F2!important
+    color: #e9e9e9!important
 }
 
 .CodeMirror-matchingtag {
@@ -129,7 +129,7 @@
 
 .CodeMirror-overwrite .CodeMirror-cursor {
     border-left: none!important;
-    border-bottom: 1px solid #F8F8F2
+    border-bottom: 1px solid #e9e9e9
 }
 
 .CodeMirror-searching {
@@ -144,7 +144,7 @@
     content: "-";
     font-size: 1.3em;
     font-weight: 700;
-    color: #aaa
+    color: #999
 }
 
 .CodeMirror-foldgutter-folded:after {
